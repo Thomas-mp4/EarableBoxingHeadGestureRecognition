@@ -1,0 +1,5 @@
+.venv
+.Examples/
+.idea/
+BoxingRecognition/models/
+BoxingRecognition/models
